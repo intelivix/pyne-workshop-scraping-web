@@ -1,0 +1,18 @@
+---
+version: '2'
+
+volumes:
+    database_pyne_web: {}
+
+services:
+
+  nginx:
+    image: pyne-web
+    restart: unless-stopped
+    volumes:
+      - ./nginx:/etc/nginx/conf.d
+      - ./logs/:/var/log/nginx/
+    ports:
+      - "80:80"
+      - "443:443"
+    command: "/bin/sh -c 'while :; do sleep 6h & wait $${!}; nginx -s reload; done & nginx -g \"daemon off;\"'"

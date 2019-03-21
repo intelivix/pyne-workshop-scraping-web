@@ -1,0 +1,27 @@
+# travis-ci
+
+sudo: required
+
+language: python
+
+services:
+  - docker
+
+python:
+  - 2.7.15
+
+before_install:
+  - echo "TRAVIS_BRANCH=$TRAVIS_BRANCH, PR=$PR, BRANCH=$BRANCH, TRAVIS_TAG=$TRAVIS_TAG"
+  - pip install pip==18.0
+  - pip install pipenv==2018.6.25
+  - pipenv install --system --dev
+  - make pep8
+
+install:
+  - echo "nothing to install!"
+
+script:
+  - make test
+
+notifications:
+  email: false
