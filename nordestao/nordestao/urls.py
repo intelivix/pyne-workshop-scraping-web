@@ -16,9 +16,11 @@ Including another URLconf
 from django.contrib import admin
 from django.urls import path
 from campeonatos import views
+from campeonatos.views import TeamListView
 
 urlpatterns = [
     path('admin/', admin.site.urls),
     path('', views.index, name='index'),
+    path('times/', TeamListView.as_view(), name='times'),
 ]
 
