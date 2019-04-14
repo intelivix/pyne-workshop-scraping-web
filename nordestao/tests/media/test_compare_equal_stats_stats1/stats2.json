@@ -1,0 +1,12 @@
+{
+    "total": 20,
+    "total_estados": {
+        "MS": 1,
+        "RJ": 14,
+        "SE": 3,
+        "SP": 1,
+        "TO": 1
+    },
+    "total_andamentos": 1120,
+    "total_partes": 136
+}

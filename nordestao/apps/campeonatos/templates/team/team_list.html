@@ -1,0 +1,13 @@
+{% extends "index.html" %}
+
+{% block container %}
+<h1>Times</h1>
+
+<ul>
+    {% for team in teams %}
+        <li>{{ team.name }}</li>
+    {% empty %}
+        <li>não tem time nenhum</li>
+    {% endfor %}
+</ul>
+{% endblock container %}

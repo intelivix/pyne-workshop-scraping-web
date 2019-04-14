@@ -1,0 +1,13 @@
+{% extends "index.html" %}
+
+{% block container %}
+<h1>Jogadores</h1>
+
+<ul>
+    {% for player in players %}
+        <li>{{ player.name }} - {{ player.team.name }}</li>
+    {% empty %}
+        <li>não tem jogadores</li>
+    {% endfor %}
+</ul>
+{% endblock container %}

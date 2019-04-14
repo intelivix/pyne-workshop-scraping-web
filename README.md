@@ -6,4 +6,7 @@ docker-compose build
 docker-compose up
 
 
-python manage.py runserver --settings mysite.settings.production
+python manage.py makemigrations --settings nordestao.settings.production
+python manage.py migrate --settings nordestao.settings.production
+python manage.py runserver --settings nordestao.settings.production
+python manage.py createsuperuser --settings nordestao.settings.production

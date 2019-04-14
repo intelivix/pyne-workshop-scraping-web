@@ -1,0 +1,27 @@
+<!DOCTYPE html>
+<html lang="en" class="no-js">
+    <head>
+        <title>{% block title %}Nordestão{% endblock title %}</title>
+        <meta charset="utf-8">
+        <meta name="author" content="Intelivix">
+        <meta name="copyright" content="Intelivix">
+        <meta name="description" content="Intelivix">
+        <meta name="keywords" content="Futebol, Nordeste">
+        <meta name="robots" content="noindex, nofollow">
+        <meta name="viewport" content="width=device-width, initial-scale=1.0">
+        {% block extra_meta %} {% endblock extra_meta %}
+        {% block styles %} {% endblock styles %}
+        {% block favicon %} {% endblock favicon %}
+        {% block scripts_header %}{% endblock scripts_header %}
+    </head>
+
+    <body>
+        {% block header %} {% endblock header %}
+        {% block menu %} {% endblock menu %}
+        {% block messages %} {% endblock messages %}
+        {% block content %} {% endblock content %}
+        {% block footer %} {% endblock footer %}
+        {% block scripts %}{% endblock scripts %}
+        {% block tracking %} {% endblock tracking %}
+    </body>
+</html>

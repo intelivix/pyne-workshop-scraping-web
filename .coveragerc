@@ -1,5 +1,6 @@
 [run]
-source = mysite
+source = nordestao
+branch = True
 omit =
   *__init__.py,
   *apps.py,

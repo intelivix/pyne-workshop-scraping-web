@@ -1,0 +1,14 @@
+{% extends "base.html" %}
+
+{% block styles %} {{ block.super }} {% endblock styles %}
+{% block menu %} {% include "menu.html" %} {% endblock menu %}
+
+{% block content %}
+<div class="container">
+  {% block before_container %} {% endblock before_container %}
+  {% block container %} {% endblock container %}
+  {% block after_container %} {% endblock after_container %}
+</div>
+{% endblock content %}
+
+{% block footer %} <hr> Nordestão {% endblock footer %}
