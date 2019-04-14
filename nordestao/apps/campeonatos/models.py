@@ -9,18 +9,14 @@ class Championship(models.Model):
     name = models.CharField(max_length=20)
 
 
-def get_image_path(instance, filename):
-    return os.path.join('img', str(instance.category), filename)
-
-
 class Team(models.Model):
     name = models.CharField(max_length=100)
     slug = models.SlugField(max_length=100, unique=True)
-    icon = models.ImageField(upload_to=get_image_path, blank=True, null=True)
+    icon = models.ImageField(upload_to='team_icons', blank=True, null=True)
     titles = models.ManyToManyField(
         Championship, through='Title',
         through_fields=('champion', 'championship'))
-    state = models.CharField(max_length=20, choices=[(s, s.value[0])
+    state = models.CharField(max_length=20, choices=[(s.value[0], s.value[1])
                                                      for s in StateChoices])
 
     def __str__(self):
