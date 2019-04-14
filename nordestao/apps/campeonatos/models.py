@@ -9,6 +9,10 @@ class Championship(models.Model):
     name = models.CharField(max_length=20)
 
 
+def get_image_path(instance, filename):
+    return os.path.join('img', str(instance.state), filename)
+
+
 class Team(models.Model):
     name = models.CharField(max_length=100)
     slug = models.SlugField(max_length=100, unique=True)
@@ -20,7 +24,7 @@ class Team(models.Model):
                                                      for s in StateChoices])
 
     def __str__(self):
-        return f'<Team {self.name}: pk ({self.id})>'
+        return self.name
 
 
 class Title(models.Model):
