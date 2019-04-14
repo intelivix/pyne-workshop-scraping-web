@@ -1,0 +1,200 @@
+{
+    "model": "campeonatos.team",
+    "pk": 1,
+    "fields": {
+        "name": "Vit\u00f3ria",
+        "slug": "Vitoria",
+        "icon": "team_icons/vitoria-icon.png",
+        "state": "BA"
+    }
+},
+{
+    "model": "campeonatos.team",
+    "pk": 2,
+    "fields": {
+        "name": "Bahia",
+        "slug": "Bahia",
+        "icon": "team_icons/bahia-icon.png",
+        "state": "BA"
+    }
+},
+{
+    "model": "campeonatos.team",
+    "pk": 3,
+    "fields": {
+        "name": "Sport",
+        "slug": "Sport",
+        "icon": "team_icons/sport-icon.png",
+        "state": "PE"
+    }
+},
+{
+    "model": "campeonatos.team",
+    "pk": 4,
+    "fields": {
+        "name": "Cear\u00e1",
+        "slug": "Ceara",
+        "icon": "team_icons/ceara-icon.png",
+        "state": "CE"
+    }
+},
+{
+    "model": "campeonatos.team",
+    "pk": 5,
+    "fields": {
+        "name": "Campinense",
+        "slug": "Campinense",
+        "icon": "team_icons/campinense-icon.png",
+        "state": "PB"
+    }
+},
+{
+    "model": "campeonatos.team",
+    "pk": 6,
+    "fields": {
+        "name": "Santa Cruz",
+        "slug": "santa_cruz",
+        "icon": "team_icons/santa_cruz-icon.png",
+        "state": "PE"
+    }
+},
+{
+    "model": "campeonatos.team",
+    "pk": 7,
+    "fields": {
+        "name": "Am\u00e9rica",
+        "slug": "america",
+        "icon": "team_icons/america-icon.png",
+        "state": "RN"
+    }
+},
+{
+    "model": "campeonatos.team",
+    "pk": 8,
+    "fields": {
+        "name": "Sampaio Corr\u00eaa",
+        "slug": "sampaio_correa",
+        "icon": "team_icons/sampaio_correia-icon.png",
+        "state": "MA"
+    }
+},
+{
+    "model": "campeonatos.team",
+    "pk": 9,
+    "fields": {
+        "name": "ABC",
+        "slug": "abc",
+        "icon": "team_icons/abc-icon.png",
+        "state": "RN"
+    }
+},
+{
+    "model": "campeonatos.team",
+    "pk": 10,
+    "fields": {
+        "name": "CRB",
+        "slug": "crb",
+        "icon": "team_icons/crb-icon.png",
+        "state": "AL"
+    }
+},
+{
+    "model": "campeonatos.team",
+    "pk": 11,
+    "fields": {
+        "name": "Fluminense de Feira",
+        "slug": "fluminense_de_feira",
+        "icon": "team_icons/fluminense-icon.png",
+        "state": "BA"
+    }
+},
+{
+    "model": "campeonatos.team",
+    "pk": 12,
+    "fields": {
+        "name": "ASA",
+        "slug": "asa",
+        "icon": "team_icons/asa-icon.png",
+        "state": "AL"
+    }
+},
+{
+    "model": "campeonatos.team",
+    "pk": 13,
+    "fields": {
+        "name": "N\u00e1utico",
+        "slug": "nautico",
+        "icon": "team_icons/nautico-icon.png",
+        "state": "PE"
+    }
+},
+{
+    "model": "campeonatos.team",
+    "pk": 14,
+    "fields": {
+        "name": "CSA",
+        "slug": "csa",
+        "icon": "team_icons/csa-icon.png",
+        "state": "AL"
+    }
+},
+{
+    "model": "campeonatos.team",
+    "pk": 15,
+    "fields": {
+        "name": "Fortaleza",
+        "slug": "fortaleza",
+        "icon": "team_icons/fortaleza-icon.png",
+        "state": "CE"
+    }
+},
+{
+    "model": "campeonatos.team",
+    "pk": 16,
+    "fields": {
+        "name": "Sergipe",
+        "slug": "sergipe",
+        "icon": "team_icons/sergipe-icon.png",
+        "state": "SE"
+    }
+},
+{
+    "model": "campeonatos.team",
+    "pk": 17,
+    "fields": {
+        "name": "Botafogo",
+        "slug": "botafogo",
+        "icon": "",
+        "state": "PB"
+    }
+},
+{
+    "model": "campeonatos.team",
+    "pk": 18,
+    "fields": {
+        "name": "Cruzeiro",
+        "slug": "cruzeiro",
+        "icon": "team_icons/cruzeiro-icon.png",
+        "state": "AL"
+    }
+},
+{
+    "model": "campeonatos.team",
+    "pk": 19,
+    "fields": {
+        "name": "Po\u00e7\u00f5es",
+        "slug": "pocoes",
+        "icon": "img/BA/pocoes-icon.jpg",
+        "state": "BA"
+    }
+},
+{
+    "model": "campeonatos.team",
+    "pk": 20,
+    "fields": {
+        "name": "Treze",
+        "slug": "treze",
+        "icon": "team_icons/treze-icon_MQYf5IC.png",
+        "state": "PB"
+    }
+}
