@@ -1,0 +1,1762 @@
+[
+    {
+       "model":"campeonatos.player",
+       "pk":290,
+       "fields":{
+          "team":1,
+          "name":"Carlos Eduardo Moreira"
+       }
+    },
+    {
+       "model":"campeonatos.player",
+       "pk":291,
+       "fields":{
+          "team":2,
+          "name":"Luiz Henrique Rezende"
+       }
+    },
+    {
+       "model":"campeonatos.player",
+       "pk":292,
+       "fields":{
+          "team":3,
+          "name":"Pietro Ferreira"
+       }
+    },
+    {
+       "model":"campeonatos.player",
+       "pk":293,
+       "fields":{
+          "team":4,
+          "name":"Henrique Santos"
+       }
+    },
+    {
+       "model":"campeonatos.player",
+       "pk":294,
+       "fields":{
+          "team":5,
+          "name":"Vitor Hugo Carvalho"
+       }
+    },
+    {
+       "model":"campeonatos.player",
+       "pk":295,
+       "fields":{
+          "team":6,
+          "name":"Luiz Ot\u00e1vio Gon\u00e7alves"
+       }
+    },
+    {
+       "model":"campeonatos.player",
+       "pk":296,
+       "fields":{
+          "team":7,
+          "name":"Pedro Henrique Moura"
+       }
+    },
+    {
+       "model":"campeonatos.player",
+       "pk":297,
+       "fields":{
+          "team":8,
+          "name":"Breno Arag\u00e3o"
+       }
+    },
+    {
+       "model":"campeonatos.player",
+       "pk":298,
+       "fields":{
+          "team":9,
+          "name":"Ant\u00f4nio Ribeiro"
+       }
+    },
+    {
+       "model":"campeonatos.player",
+       "pk":299,
+       "fields":{
+          "team":10,
+          "name":"Lucas da Rosa"
+       }
+    },
+    {
+       "model":"campeonatos.player",
+       "pk":300,
+       "fields":{
+          "team":11,
+          "name":"Gustavo Henrique da Rocha"
+       }
+    },
+    {
+       "model":"campeonatos.player",
+       "pk":301,
+       "fields":{
+          "team":12,
+          "name":"Daniel Correia"
+       }
+    },
+    {
+       "model":"campeonatos.player",
+       "pk":302,
+       "fields":{
+          "team":13,
+          "name":"Daniel da Rosa"
+       }
+    },
+    {
+       "model":"campeonatos.player",
+       "pk":303,
+       "fields":{
+          "team":14,
+          "name":"Luiz Henrique Nunes"
+       }
+    },
+    {
+       "model":"campeonatos.player",
+       "pk":304,
+       "fields":{
+          "team":15,
+          "name":"Nathan Monteiro"
+       }
+    },
+    {
+       "model":"campeonatos.player",
+       "pk":305,
+       "fields":{
+          "team":16,
+          "name":"Diogo Castro"
+       }
+    },
+    {
+       "model":"campeonatos.player",
+       "pk":306,
+       "fields":{
+          "team":17,
+          "name":"Luiz Ot\u00e1vio Moreira"
+       }
+    },
+    {
+       "model":"campeonatos.player",
+       "pk":307,
+       "fields":{
+          "team":18,
+          "name":"Andr\u00e9 Rodrigues"
+       }
+    },
+    {
+       "model":"campeonatos.player",
+       "pk":308,
+       "fields":{
+          "team":19,
+          "name":"Pedro Miguel da Rocha"
+       }
+    },
+    {
+       "model":"campeonatos.player",
+       "pk":309,
+       "fields":{
+          "team":20,
+          "name":"Pedro Henrique da Mota"
+       }
+    },
+    {
+       "model":"campeonatos.player",
+       "pk":310,
+       "fields":{
+          "team":1,
+          "name":"Davi Cardoso"
+       }
+    },
+    {
+       "model":"campeonatos.player",
+       "pk":311,
+       "fields":{
+          "team":2,
+          "name":"Gustavo da Rocha"
+       }
+    },
+    {
+       "model":"campeonatos.player",
+       "pk":312,
+       "fields":{
+          "team":3,
+          "name":"Vinicius Pinto"
+       }
+    },
+    {
+       "model":"campeonatos.player",
+       "pk":313,
+       "fields":{
+          "team":4,
+          "name":"Levi Farias"
+       }
+    },
+    {
+       "model":"campeonatos.player",
+       "pk":314,
+       "fields":{
+          "team":5,
+          "name":"Thomas Ribeiro"
+       }
+    },
+    {
+       "model":"campeonatos.player",
+       "pk":315,
+       "fields":{
+          "team":6,
+          "name":"Marcelo Nogueira"
+       }
+    },
+    {
+       "model":"campeonatos.player",
+       "pk":316,
+       "fields":{
+          "team":7,
+          "name":"Pedro Vieira"
+       }
+    },
+    {
+       "model":"campeonatos.player",
+       "pk":317,
+       "fields":{
+          "team":8,
+          "name":"Jo\u00e3o Felipe Freitas"
+       }
+    },
+    {
+       "model":"campeonatos.player",
+       "pk":318,
+       "fields":{
+          "team":9,
+          "name":"Nathan da Cunha"
+       }
+    },
+    {
+       "model":"campeonatos.player",
+       "pk":319,
+       "fields":{
+          "team":10,
+          "name":"Lucas Gabriel Ribeiro"
+       }
+    },
+    {
+       "model":"campeonatos.player",
+       "pk":320,
+       "fields":{
+          "team":11,
+          "name":"Jo\u00e3o Miguel Almeida"
+       }
+    },
+    {
+       "model":"campeonatos.player",
+       "pk":321,
+       "fields":{
+          "team":12,
+          "name":"Jo\u00e3o Felipe Ramos"
+       }
+    },
+    {
+       "model":"campeonatos.player",
+       "pk":322,
+       "fields":{
+          "team":13,
+          "name":"Leandro Castro"
+       }
+    },
+    {
+       "model":"campeonatos.player",
+       "pk":323,
+       "fields":{
+          "team":14,
+          "name":"Sr. Luigi Freitas"
+       }
+    },
+    {
+       "model":"campeonatos.player",
+       "pk":324,
+       "fields":{
+          "team":15,
+          "name":"Cau\u00e3 da Cunha"
+       }
+    },
+    {
+       "model":"campeonatos.player",
+       "pk":325,
+       "fields":{
+          "team":16,
+          "name":"Ot\u00e1vio Campos"
+       }
+    },
+    {
+       "model":"campeonatos.player",
+       "pk":326,
+       "fields":{
+          "team":17,
+          "name":"Luiz Felipe Carvalho"
+       }
+    },
+    {
+       "model":"campeonatos.player",
+       "pk":327,
+       "fields":{
+          "team":18,
+          "name":"Vicente Moraes"
+       }
+    },
+    {
+       "model":"campeonatos.player",
+       "pk":328,
+       "fields":{
+          "team":19,
+          "name":"Guilherme da Paz"
+       }
+    },
+    {
+       "model":"campeonatos.player",
+       "pk":329,
+       "fields":{
+          "team":20,
+          "name":"Lorenzo da Paz"
+       }
+    },
+    {
+       "model":"campeonatos.player",
+       "pk":330,
+       "fields":{
+          "team":1,
+          "name":"Cau\u00e3 Gomes"
+       }
+    },
+    {
+       "model":"campeonatos.player",
+       "pk":331,
+       "fields":{
+          "team":2,
+          "name":"Vitor Hugo Pinto"
+       }
+    },
+    {
+       "model":"campeonatos.player",
+       "pk":332,
+       "fields":{
+          "team":3,
+          "name":"Jo\u00e3o Lucas Rodrigues"
+       }
+    },
+    {
+       "model":"campeonatos.player",
+       "pk":333,
+       "fields":{
+          "team":4,
+          "name":"Ben\u00edcio Lima"
+       }
+    },
+    {
+       "model":"campeonatos.player",
+       "pk":334,
+       "fields":{
+          "team":5,
+          "name":"Davi Lucas Nunes"
+       }
+    },
+    {
+       "model":"campeonatos.player",
+       "pk":335,
+       "fields":{
+          "team":6,
+          "name":"Matheus da Paz"
+       }
+    },
+    {
+       "model":"campeonatos.player",
+       "pk":336,
+       "fields":{
+          "team":7,
+          "name":"Enzo Cardoso"
+       }
+    },
+    {
+       "model":"campeonatos.player",
+       "pk":337,
+       "fields":{
+          "team":8,
+          "name":"Theo Nogueira"
+       }
+    },
+    {
+       "model":"campeonatos.player",
+       "pk":338,
+       "fields":{
+          "team":9,
+          "name":"Benjamin Ara\u00fajo"
+       }
+    },
+    {
+       "model":"campeonatos.player",
+       "pk":339,
+       "fields":{
+          "team":10,
+          "name":"Luiz Henrique Duarte"
+       }
+    },
+    {
+       "model":"campeonatos.player",
+       "pk":340,
+       "fields":{
+          "team":11,
+          "name":"Pietro Correia"
+       }
+    },
+    {
+       "model":"campeonatos.player",
+       "pk":341,
+       "fields":{
+          "team":12,
+          "name":"Luiz Henrique Jesus"
+       }
+    },
+    {
+       "model":"campeonatos.player",
+       "pk":342,
+       "fields":{
+          "team":13,
+          "name":"Jo\u00e3o Pedro Alves"
+       }
+    },
+    {
+       "model":"campeonatos.player",
+       "pk":343,
+       "fields":{
+          "team":14,
+          "name":"Diogo Pires"
+       }
+    },
+    {
+       "model":"campeonatos.player",
+       "pk":344,
+       "fields":{
+          "team":15,
+          "name":"Davi Luiz Nascimento"
+       }
+    },
+    {
+       "model":"campeonatos.player",
+       "pk":345,
+       "fields":{
+          "team":16,
+          "name":"Eduardo Campos"
+       }
+    },
+    {
+       "model":"campeonatos.player",
+       "pk":346,
+       "fields":{
+          "team":17,
+          "name":"Vitor Hugo Monteiro"
+       }
+    },
+    {
+       "model":"campeonatos.player",
+       "pk":347,
+       "fields":{
+          "team":18,
+          "name":"Jo\u00e3o Guilherme Teixeira"
+       }
+    },
+    {
+       "model":"campeonatos.player",
+       "pk":348,
+       "fields":{
+          "team":19,
+          "name":"Luiz Gustavo da Cunha"
+       }
+    },
+    {
+       "model":"campeonatos.player",
+       "pk":349,
+       "fields":{
+          "team":20,
+          "name":"Benjamin da Concei\u00e7\u00e3o"
+       }
+    },
+    {
+       "model":"campeonatos.player",
+       "pk":350,
+       "fields":{
+          "team":1,
+          "name":"Sr. Thomas Alves"
+       }
+    },
+    {
+       "model":"campeonatos.player",
+       "pk":351,
+       "fields":{
+          "team":2,
+          "name":"Noah Freitas"
+       }
+    },
+    {
+       "model":"campeonatos.player",
+       "pk":352,
+       "fields":{
+          "team":3,
+          "name":"Ot\u00e1vio Costela"
+       }
+    },
+    {
+       "model":"campeonatos.player",
+       "pk":353,
+       "fields":{
+          "team":4,
+          "name":"Vinicius Silva"
+       }
+    },
+    {
+       "model":"campeonatos.player",
+       "pk":354,
+       "fields":{
+          "team":5,
+          "name":"Sr. Thomas Viana"
+       }
+    },
+    {
+       "model":"campeonatos.player",
+       "pk":355,
+       "fields":{
+          "team":6,
+          "name":"Gustavo Henrique Azevedo"
+       }
+    },
+    {
+       "model":"campeonatos.player",
+       "pk":356,
+       "fields":{
+          "team":7,
+          "name":"Yago Moura"
+       }
+    },
+    {
+       "model":"campeonatos.player",
+       "pk":357,
+       "fields":{
+          "team":8,
+          "name":"Kevin Pires"
+       }
+    },
+    {
+       "model":"campeonatos.player",
+       "pk":358,
+       "fields":{
+          "team":9,
+          "name":"Carlos Eduardo Souza"
+       }
+    },
+    {
+       "model":"campeonatos.player",
+       "pk":359,
+       "fields":{
+          "team":10,
+          "name":"Lucas Gabriel Foga\u00e7a"
+       }
+    },
+    {
+       "model":"campeonatos.player",
+       "pk":360,
+       "fields":{
+          "team":11,
+          "name":"Davi Lucca Novaes"
+       }
+    },
+    {
+       "model":"campeonatos.player",
+       "pk":361,
+       "fields":{
+          "team":12,
+          "name":"Sr. Arthur Costa"
+       }
+    },
+    {
+       "model":"campeonatos.player",
+       "pk":362,
+       "fields":{
+          "team":13,
+          "name":"Sr. Rodrigo Barros"
+       }
+    },
+    {
+       "model":"campeonatos.player",
+       "pk":363,
+       "fields":{
+          "team":14,
+          "name":"Sr. Enrico Peixoto"
+       }
+    },
+    {
+       "model":"campeonatos.player",
+       "pk":364,
+       "fields":{
+          "team":15,
+          "name":"Dr. Jo\u00e3o Guilherme Costela"
+       }
+    },
+    {
+       "model":"campeonatos.player",
+       "pk":365,
+       "fields":{
+          "team":16,
+          "name":"Luigi Nascimento"
+       }
+    },
+    {
+       "model":"campeonatos.player",
+       "pk":366,
+       "fields":{
+          "team":17,
+          "name":"Augusto Jesus"
+       }
+    },
+    {
+       "model":"campeonatos.player",
+       "pk":367,
+       "fields":{
+          "team":18,
+          "name":"Fernando da Costa"
+       }
+    },
+    {
+       "model":"campeonatos.player",
+       "pk":368,
+       "fields":{
+          "team":19,
+          "name":"Erick Rezende"
+       }
+    },
+    {
+       "model":"campeonatos.player",
+       "pk":369,
+       "fields":{
+          "team":20,
+          "name":"Carlos Eduardo Souza"
+       }
+    },
+    {
+       "model":"campeonatos.player",
+       "pk":370,
+       "fields":{
+          "team":1,
+          "name":"Yago Lima"
+       }
+    },
+    {
+       "model":"campeonatos.player",
+       "pk":371,
+       "fields":{
+          "team":2,
+          "name":"Paulo Duarte"
+       }
+    },
+    {
+       "model":"campeonatos.player",
+       "pk":372,
+       "fields":{
+          "team":3,
+          "name":"Heitor Mendes"
+       }
+    },
+    {
+       "model":"campeonatos.player",
+       "pk":373,
+       "fields":{
+          "team":4,
+          "name":"Matheus Silveira"
+       }
+    },
+    {
+       "model":"campeonatos.player",
+       "pk":374,
+       "fields":{
+          "team":5,
+          "name":"Rafael da Cunha"
+       }
+    },
+    {
+       "model":"campeonatos.player",
+       "pk":375,
+       "fields":{
+          "team":6,
+          "name":"Henrique da Cunha"
+       }
+    },
+    {
+       "model":"campeonatos.player",
+       "pk":376,
+       "fields":{
+          "team":7,
+          "name":"Luiz Gustavo da Rosa"
+       }
+    },
+    {
+       "model":"campeonatos.player",
+       "pk":377,
+       "fields":{
+          "team":8,
+          "name":"Jo\u00e3o Guilherme Viana"
+       }
+    },
+    {
+       "model":"campeonatos.player",
+       "pk":378,
+       "fields":{
+          "team":9,
+          "name":"Vitor Hugo Lopes"
+       }
+    },
+    {
+       "model":"campeonatos.player",
+       "pk":379,
+       "fields":{
+          "team":10,
+          "name":"Dr. Jo\u00e3o da Mota"
+       }
+    },
+    {
+       "model":"campeonatos.player",
+       "pk":380,
+       "fields":{
+          "team":11,
+          "name":"Eduardo Gomes"
+       }
+    },
+    {
+       "model":"campeonatos.player",
+       "pk":381,
+       "fields":{
+          "team":12,
+          "name":"Sr. Raul das Neves"
+       }
+    },
+    {
+       "model":"campeonatos.player",
+       "pk":382,
+       "fields":{
+          "team":13,
+          "name":"Jo\u00e3o Gabriel Porto"
+       }
+    },
+    {
+       "model":"campeonatos.player",
+       "pk":383,
+       "fields":{
+          "team":14,
+          "name":"Dr. Anthony Barbosa"
+       }
+    },
+    {
+       "model":"campeonatos.player",
+       "pk":384,
+       "fields":{
+          "team":15,
+          "name":"Murilo Rocha"
+       }
+    },
+    {
+       "model":"campeonatos.player",
+       "pk":385,
+       "fields":{
+          "team":16,
+          "name":"Dr. Yuri Santos"
+       }
+    },
+    {
+       "model":"campeonatos.player",
+       "pk":386,
+       "fields":{
+          "team":17,
+          "name":"Dr. Felipe Freitas"
+       }
+    },
+    {
+       "model":"campeonatos.player",
+       "pk":387,
+       "fields":{
+          "team":18,
+          "name":"Raul Pereira"
+       }
+    },
+    {
+       "model":"campeonatos.player",
+       "pk":388,
+       "fields":{
+          "team":19,
+          "name":"Theo Ribeiro"
+       }
+    },
+    {
+       "model":"campeonatos.player",
+       "pk":389,
+       "fields":{
+          "team":20,
+          "name":"Luiz Ot\u00e1vio Almeida"
+       }
+    },
+    {
+       "model":"campeonatos.player",
+       "pk":390,
+       "fields":{
+          "team":1,
+          "name":"Kaique Moraes"
+       }
+    },
+    {
+       "model":"campeonatos.player",
+       "pk":391,
+       "fields":{
+          "team":2,
+          "name":"Luiz Ot\u00e1vio Jesus"
+       }
+    },
+    {
+       "model":"campeonatos.player",
+       "pk":392,
+       "fields":{
+          "team":3,
+          "name":"Theo Caldeira"
+       }
+    },
+    {
+       "model":"campeonatos.player",
+       "pk":393,
+       "fields":{
+          "team":4,
+          "name":"Enrico Costela"
+       }
+    },
+    {
+       "model":"campeonatos.player",
+       "pk":394,
+       "fields":{
+          "team":5,
+          "name":"Davi Cardoso"
+       }
+    },
+    {
+       "model":"campeonatos.player",
+       "pk":395,
+       "fields":{
+          "team":6,
+          "name":"Thales Castro"
+       }
+    },
+    {
+       "model":"campeonatos.player",
+       "pk":396,
+       "fields":{
+          "team":7,
+          "name":"Sr. Theo Silva"
+       }
+    },
+    {
+       "model":"campeonatos.player",
+       "pk":397,
+       "fields":{
+          "team":8,
+          "name":"Gustavo Pereira"
+       }
+    },
+    {
+       "model":"campeonatos.player",
+       "pk":398,
+       "fields":{
+          "team":9,
+          "name":"Davi Lucca Pires"
+       }
+    },
+    {
+       "model":"campeonatos.player",
+       "pk":399,
+       "fields":{
+          "team":10,
+          "name":"Dr. Jo\u00e3o Pedro Santos"
+       }
+    },
+    {
+       "model":"campeonatos.player",
+       "pk":400,
+       "fields":{
+          "team":11,
+          "name":"Joaquim Costela"
+       }
+    },
+    {
+       "model":"campeonatos.player",
+       "pk":401,
+       "fields":{
+          "team":12,
+          "name":"Dr. Bryan Viana"
+       }
+    },
+    {
+       "model":"campeonatos.player",
+       "pk":402,
+       "fields":{
+          "team":13,
+          "name":"Luiz Gustavo Ferreira"
+       }
+    },
+    {
+       "model":"campeonatos.player",
+       "pk":403,
+       "fields":{
+          "team":14,
+          "name":"Jo\u00e3o Gabriel das Neves"
+       }
+    },
+    {
+       "model":"campeonatos.player",
+       "pk":404,
+       "fields":{
+          "team":15,
+          "name":"Diego Duarte"
+       }
+    },
+    {
+       "model":"campeonatos.player",
+       "pk":405,
+       "fields":{
+          "team":16,
+          "name":"Gustavo Ferreira"
+       }
+    },
+    {
+       "model":"campeonatos.player",
+       "pk":406,
+       "fields":{
+          "team":17,
+          "name":"Ant\u00f4nio da Luz"
+       }
+    },
+    {
+       "model":"campeonatos.player",
+       "pk":407,
+       "fields":{
+          "team":18,
+          "name":"Dr. Gustavo Henrique Jesus"
+       }
+    },
+    {
+       "model":"campeonatos.player",
+       "pk":408,
+       "fields":{
+          "team":19,
+          "name":"Daniel Moraes"
+       }
+    },
+    {
+       "model":"campeonatos.player",
+       "pk":409,
+       "fields":{
+          "team":20,
+          "name":"Renan Rezende"
+       }
+    },
+    {
+       "model":"campeonatos.player",
+       "pk":410,
+       "fields":{
+          "team":1,
+          "name":"Vitor Gabriel Gomes"
+       }
+    },
+    {
+       "model":"campeonatos.player",
+       "pk":411,
+       "fields":{
+          "team":2,
+          "name":"Paulo Gon\u00e7alves"
+       }
+    },
+    {
+       "model":"campeonatos.player",
+       "pk":412,
+       "fields":{
+          "team":3,
+          "name":"Felipe Ferreira"
+       }
+    },
+    {
+       "model":"campeonatos.player",
+       "pk":413,
+       "fields":{
+          "team":4,
+          "name":"Lucca Costela"
+       }
+    },
+    {
+       "model":"campeonatos.player",
+       "pk":414,
+       "fields":{
+          "team":5,
+          "name":"Dr. Heitor Silveira"
+       }
+    },
+    {
+       "model":"campeonatos.player",
+       "pk":415,
+       "fields":{
+          "team":6,
+          "name":"Ian da Mata"
+       }
+    },
+    {
+       "model":"campeonatos.player",
+       "pk":416,
+       "fields":{
+          "team":7,
+          "name":"Eduardo Novaes"
+       }
+    },
+    {
+       "model":"campeonatos.player",
+       "pk":417,
+       "fields":{
+          "team":8,
+          "name":"Diogo Moraes"
+       }
+    },
+    {
+       "model":"campeonatos.player",
+       "pk":418,
+       "fields":{
+          "team":9,
+          "name":"Leandro da Mata"
+       }
+    },
+    {
+       "model":"campeonatos.player",
+       "pk":419,
+       "fields":{
+          "team":10,
+          "name":"Leandro Viana"
+       }
+    },
+    {
+       "model":"campeonatos.player",
+       "pk":420,
+       "fields":{
+          "team":11,
+          "name":"Arthur Oliveira"
+       }
+    },
+    {
+       "model":"campeonatos.player",
+       "pk":421,
+       "fields":{
+          "team":12,
+          "name":"Eduardo Silva"
+       }
+    },
+    {
+       "model":"campeonatos.player",
+       "pk":422,
+       "fields":{
+          "team":13,
+          "name":"Enzo Gabriel Vieira"
+       }
+    },
+    {
+       "model":"campeonatos.player",
+       "pk":423,
+       "fields":{
+          "team":14,
+          "name":"Luiz Miguel Cunha"
+       }
+    },
+    {
+       "model":"campeonatos.player",
+       "pk":424,
+       "fields":{
+          "team":15,
+          "name":"Carlos Eduardo Cardoso"
+       }
+    },
+    {
+       "model":"campeonatos.player",
+       "pk":425,
+       "fields":{
+          "team":16,
+          "name":"Sr. Enrico Correia"
+       }
+    },
+    {
+       "model":"campeonatos.player",
+       "pk":426,
+       "fields":{
+          "team":17,
+          "name":"Alexandre Mendes"
+       }
+    },
+    {
+       "model":"campeonatos.player",
+       "pk":427,
+       "fields":{
+          "team":18,
+          "name":"Bruno Monteiro"
+       }
+    },
+    {
+       "model":"campeonatos.player",
+       "pk":428,
+       "fields":{
+          "team":19,
+          "name":"Dr. Luiz Fernando Rocha"
+       }
+    },
+    {
+       "model":"campeonatos.player",
+       "pk":429,
+       "fields":{
+          "team":20,
+          "name":"Leonardo da Cunha"
+       }
+    },
+    {
+       "model":"campeonatos.player",
+       "pk":430,
+       "fields":{
+          "team":1,
+          "name":"Vicente Freitas"
+       }
+    },
+    {
+       "model":"campeonatos.player",
+       "pk":431,
+       "fields":{
+          "team":2,
+          "name":"Pedro Miguel Souza"
+       }
+    },
+    {
+       "model":"campeonatos.player",
+       "pk":432,
+       "fields":{
+          "team":3,
+          "name":"Davi Gon\u00e7alves"
+       }
+    },
+    {
+       "model":"campeonatos.player",
+       "pk":433,
+       "fields":{
+          "team":4,
+          "name":"Anthony Vieira"
+       }
+    },
+    {
+       "model":"campeonatos.player",
+       "pk":434,
+       "fields":{
+          "team":5,
+          "name":"Vinicius da Mota"
+       }
+    },
+    {
+       "model":"campeonatos.player",
+       "pk":435,
+       "fields":{
+          "team":6,
+          "name":"Davi Luiz da Mota"
+       }
+    },
+    {
+       "model":"campeonatos.player",
+       "pk":436,
+       "fields":{
+          "team":7,
+          "name":"Ryan Barbosa"
+       }
+    },
+    {
+       "model":"campeonatos.player",
+       "pk":437,
+       "fields":{
+          "team":8,
+          "name":"Jo\u00e3o Guilherme Barbosa"
+       }
+    },
+    {
+       "model":"campeonatos.player",
+       "pk":438,
+       "fields":{
+          "team":9,
+          "name":"Diego Dias"
+       }
+    },
+    {
+       "model":"campeonatos.player",
+       "pk":439,
+       "fields":{
+          "team":10,
+          "name":"Vitor Fernandes"
+       }
+    },
+    {
+       "model":"campeonatos.player",
+       "pk":440,
+       "fields":{
+          "team":11,
+          "name":"Luigi da Costa"
+       }
+    },
+    {
+       "model":"campeonatos.player",
+       "pk":441,
+       "fields":{
+          "team":12,
+          "name":"Dr. Felipe Nogueira"
+       }
+    },
+    {
+       "model":"campeonatos.player",
+       "pk":442,
+       "fields":{
+          "team":13,
+          "name":"Vitor Hugo Pereira"
+       }
+    },
+    {
+       "model":"campeonatos.player",
+       "pk":443,
+       "fields":{
+          "team":14,
+          "name":"Matheus Mendes"
+       }
+    },
+    {
+       "model":"campeonatos.player",
+       "pk":444,
+       "fields":{
+          "team":15,
+          "name":"Vitor Hugo da Rocha"
+       }
+    },
+    {
+       "model":"campeonatos.player",
+       "pk":445,
+       "fields":{
+          "team":16,
+          "name":"Luiz Fernando Martins"
+       }
+    },
+    {
+       "model":"campeonatos.player",
+       "pk":446,
+       "fields":{
+          "team":17,
+          "name":"Jo\u00e3o Gabriel da Rocha"
+       }
+    },
+    {
+       "model":"campeonatos.player",
+       "pk":447,
+       "fields":{
+          "team":18,
+          "name":"Jo\u00e3o Lucas Teixeira"
+       }
+    },
+    {
+       "model":"campeonatos.player",
+       "pk":448,
+       "fields":{
+          "team":19,
+          "name":"Gustavo Jesus"
+       }
+    },
+    {
+       "model":"campeonatos.player",
+       "pk":449,
+       "fields":{
+          "team":20,
+          "name":"Miguel Monteiro"
+       }
+    },
+    {
+       "model":"campeonatos.player",
+       "pk":450,
+       "fields":{
+          "team":1,
+          "name":"Luiz Miguel da Luz"
+       }
+    },
+    {
+       "model":"campeonatos.player",
+       "pk":451,
+       "fields":{
+          "team":2,
+          "name":"Sr. Raul Jesus"
+       }
+    },
+    {
+       "model":"campeonatos.player",
+       "pk":452,
+       "fields":{
+          "team":3,
+          "name":"Sr. Marcos Vinicius Ramos"
+       }
+    },
+    {
+       "model":"campeonatos.player",
+       "pk":453,
+       "fields":{
+          "team":4,
+          "name":"Luiz Miguel da Paz"
+       }
+    },
+    {
+       "model":"campeonatos.player",
+       "pk":454,
+       "fields":{
+          "team":5,
+          "name":"Pedro Almeida"
+       }
+    },
+    {
+       "model":"campeonatos.player",
+       "pk":455,
+       "fields":{
+          "team":6,
+          "name":"Francisco Freitas"
+       }
+    },
+    {
+       "model":"campeonatos.player",
+       "pk":456,
+       "fields":{
+          "team":7,
+          "name":"Davi Lucca Novaes"
+       }
+    },
+    {
+       "model":"campeonatos.player",
+       "pk":457,
+       "fields":{
+          "team":8,
+          "name":"Raul da Rocha"
+       }
+    },
+    {
+       "model":"campeonatos.player",
+       "pk":458,
+       "fields":{
+          "team":9,
+          "name":"Marcos Vinicius Cunha"
+       }
+    },
+    {
+       "model":"campeonatos.player",
+       "pk":459,
+       "fields":{
+          "team":10,
+          "name":"Davi Luiz Ara\u00fajo"
+       }
+    },
+    {
+       "model":"campeonatos.player",
+       "pk":460,
+       "fields":{
+          "team":11,
+          "name":"Thomas Santos"
+       }
+    },
+    {
+       "model":"campeonatos.player",
+       "pk":461,
+       "fields":{
+          "team":12,
+          "name":"Luiz Henrique Azevedo"
+       }
+    },
+    {
+       "model":"campeonatos.player",
+       "pk":462,
+       "fields":{
+          "team":13,
+          "name":"Pedro Lucas Correia"
+       }
+    },
+    {
+       "model":"campeonatos.player",
+       "pk":463,
+       "fields":{
+          "team":14,
+          "name":"Pedro Carvalho"
+       }
+    },
+    {
+       "model":"campeonatos.player",
+       "pk":464,
+       "fields":{
+          "team":15,
+          "name":"Arthur Campos"
+       }
+    },
+    {
+       "model":"campeonatos.player",
+       "pk":465,
+       "fields":{
+          "team":16,
+          "name":"Sr. Lucas Santos"
+       }
+    },
+    {
+       "model":"campeonatos.player",
+       "pk":466,
+       "fields":{
+          "team":17,
+          "name":"Eduardo da Mota"
+       }
+    },
+    {
+       "model":"campeonatos.player",
+       "pk":467,
+       "fields":{
+          "team":18,
+          "name":"Gustavo Henrique Campos"
+       }
+    },
+    {
+       "model":"campeonatos.player",
+       "pk":468,
+       "fields":{
+          "team":19,
+          "name":"Andr\u00e9 da Cruz"
+       }
+    },
+    {
+       "model":"campeonatos.player",
+       "pk":469,
+       "fields":{
+          "team":20,
+          "name":"Raul Lima"
+       }
+    },
+    {
+       "model":"campeonatos.player",
+       "pk":470,
+       "fields":{
+          "team":1,
+          "name":"Yuri Nogueira"
+       }
+    },
+    {
+       "model":"campeonatos.player",
+       "pk":471,
+       "fields":{
+          "team":2,
+          "name":"Thiago Fernandes"
+       }
+    },
+    {
+       "model":"campeonatos.player",
+       "pk":472,
+       "fields":{
+          "team":3,
+          "name":"Davi Lucca Carvalho"
+       }
+    },
+    {
+       "model":"campeonatos.player",
+       "pk":473,
+       "fields":{
+          "team":4,
+          "name":"Ben\u00edcio Lima"
+       }
+    },
+    {
+       "model":"campeonatos.player",
+       "pk":474,
+       "fields":{
+          "team":5,
+          "name":"Jo\u00e3o Gabriel da Rocha"
+       }
+    },
+    {
+       "model":"campeonatos.player",
+       "pk":475,
+       "fields":{
+          "team":6,
+          "name":"Sr. Diego Pires"
+       }
+    },
+    {
+       "model":"campeonatos.player",
+       "pk":476,
+       "fields":{
+          "team":7,
+          "name":"Breno Almeida"
+       }
+    },
+    {
+       "model":"campeonatos.player",
+       "pk":477,
+       "fields":{
+          "team":8,
+          "name":"Yago Arag\u00e3o"
+       }
+    },
+    {
+       "model":"campeonatos.player",
+       "pk":478,
+       "fields":{
+          "team":9,
+          "name":"Ot\u00e1vio Mendes"
+       }
+    },
+    {
+       "model":"campeonatos.player",
+       "pk":479,
+       "fields":{
+          "team":10,
+          "name":"Fernando das Neves"
+       }
+    },
+    {
+       "model":"campeonatos.player",
+       "pk":480,
+       "fields":{
+          "team":11,
+          "name":"Dr. Cau\u00e3 Freitas"
+       }
+    },
+    {
+       "model":"campeonatos.player",
+       "pk":481,
+       "fields":{
+          "team":12,
+          "name":"Pedro Henrique Jesus"
+       }
+    },
+    {
+       "model":"campeonatos.player",
+       "pk":482,
+       "fields":{
+          "team":13,
+          "name":"Bernardo da Paz"
+       }
+    },
+    {
+       "model":"campeonatos.player",
+       "pk":483,
+       "fields":{
+          "team":14,
+          "name":"Daniel da Mata"
+       }
+    },
+    {
+       "model":"campeonatos.player",
+       "pk":484,
+       "fields":{
+          "team":15,
+          "name":"Miguel Santos"
+       }
+    },
+    {
+       "model":"campeonatos.player",
+       "pk":485,
+       "fields":{
+          "team":16,
+          "name":"Sr. Leonardo Porto"
+       }
+    },
+    {
+       "model":"campeonatos.player",
+       "pk":486,
+       "fields":{
+          "team":17,
+          "name":"Cau\u00e3 Moreira"
+       }
+    },
+    {
+       "model":"campeonatos.player",
+       "pk":487,
+       "fields":{
+          "team":18,
+          "name":"Anthony Almeida"
+       }
+    },
+    {
+       "model":"campeonatos.player",
+       "pk":488,
+       "fields":{
+          "team":19,
+          "name":"Kevin Pereira"
+       }
+    },
+    {
+       "model":"campeonatos.player",
+       "pk":489,
+       "fields":{
+          "team":20,
+          "name":"Sr. Matheus Teixeira"
+       }
+    },
+    {
+       "model":"campeonatos.player",
+       "pk":490,
+       "fields":{
+          "team":1,
+          "name":"Dr. Eduardo Ara\u00fajo"
+       }
+    },
+    {
+       "model":"campeonatos.player",
+       "pk":491,
+       "fields":{
+          "team":2,
+          "name":"Dr. Luiz Ot\u00e1vio Rezende"
+       }
+    },
+    {
+       "model":"campeonatos.player",
+       "pk":492,
+       "fields":{
+          "team":3,
+          "name":"Augusto Pinto"
+       }
+    },
+    {
+       "model":"campeonatos.player",
+       "pk":493,
+       "fields":{
+          "team":4,
+          "name":"Dr. Augusto Cardoso"
+       }
+    },
+    {
+       "model":"campeonatos.player",
+       "pk":494,
+       "fields":{
+          "team":5,
+          "name":"Lorenzo Ramos"
+       }
+    },
+    {
+       "model":"campeonatos.player",
+       "pk":495,
+       "fields":{
+          "team":6,
+          "name":"Carlos Eduardo Castro"
+       }
+    },
+    {
+       "model":"campeonatos.player",
+       "pk":496,
+       "fields":{
+          "team":7,
+          "name":"Carlos Eduardo da Cunha"
+       }
+    },
+    {
+       "model":"campeonatos.player",
+       "pk":497,
+       "fields":{
+          "team":8,
+          "name":"Diego Foga\u00e7a"
+       }
+    },
+    {
+       "model":"campeonatos.player",
+       "pk":498,
+       "fields":{
+          "team":9,
+          "name":"Enrico Alves"
+       }
+    },
+    {
+       "model":"campeonatos.player",
+       "pk":499,
+       "fields":{
+          "team":10,
+          "name":"Pedro Correia"
+       }
+    },
+    {
+       "model":"campeonatos.player",
+       "pk":500,
+       "fields":{
+          "team":11,
+          "name":"Bruno Castro"
+       }
+    },
+    {
+       "model":"campeonatos.player",
+       "pk":501,
+       "fields":{
+          "team":12,
+          "name":"Sr. Felipe da Rosa"
+       }
+    },
+    {
+       "model":"campeonatos.player",
+       "pk":502,
+       "fields":{
+          "team":13,
+          "name":"Juan Monteiro"
+       }
+    },
+    {
+       "model":"campeonatos.player",
+       "pk":503,
+       "fields":{
+          "team":14,
+          "name":"Jo\u00e3o Pedro Pereira"
+       }
+    },
+    {
+       "model":"campeonatos.player",
+       "pk":504,
+       "fields":{
+          "team":15,
+          "name":"Murilo Cardoso"
+       }
+    },
+    {
+       "model":"campeonatos.player",
+       "pk":505,
+       "fields":{
+          "team":16,
+          "name":"Guilherme Silveira"
+       }
+    },
+    {
+       "model":"campeonatos.player",
+       "pk":506,
+       "fields":{
+          "team":17,
+          "name":"Ian Pires"
+       }
+    },
+    {
+       "model":"campeonatos.player",
+       "pk":507,
+       "fields":{
+          "team":18,
+          "name":"Nicolas da Mota"
+       }
+    },
+    {
+       "model":"campeonatos.player",
+       "pk":508,
+       "fields":{
+          "team":19,
+          "name":"Murilo Porto"
+       }
+    },
+    {
+       "model":"campeonatos.player",
+       "pk":509,
+       "fields":{
+          "team":20,
+          "name":"Francisco Mendes"
+       }
+    }
+]
