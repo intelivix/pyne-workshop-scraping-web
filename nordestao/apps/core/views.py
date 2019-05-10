@@ -1,8 +1,10 @@
 from django.views.generic.list import ListView
 from campeonatos.models import Team
 
+
 class TeamModelMixin(object):
     model = Team
+
 
 class HomePageView(TeamModelMixin, ListView):
 

@@ -1,4 +1,6 @@
+{% load render_bundle from webpack_loader %}
 {% load static %}
+
 <!DOCTYPE html>
 <html lang="en" class="no-js">
     <head>
@@ -11,8 +13,8 @@
         <meta name="robots" content="noindex, nofollow">
         <meta name="viewport" content="width=device-width, initial-scale=1.0">
         {% block extra_meta %} {% endblock extra_meta %}
-        {% block styles %} 
-        <link rel="stylesheet" href="{% static 'style.scss' %}">
+        {% block styles %}
+            {% render_bundle 'main' 'css' %}
         {% endblock styles %}
         {% block favicon %} {% endblock favicon %}
         {% block scripts_header %}{% endblock scripts_header %}
@@ -24,7 +26,9 @@
         {% block messages %} {% endblock messages %}
         {% block content %} {% endblock content %}
         {% block footer %} {% endblock footer %}
-        {% block scripts %}{% endblock scripts %}
+        {% block scripts %}
+            {% render_bundle 'main' 'js' %}
+        {% endblock scripts %}
         {% block tracking %} {% endblock tracking %}
     </body>
 </html>

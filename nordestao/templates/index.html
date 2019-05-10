@@ -1,45 +1,29 @@
 {% extends "base.html" %}
-<!DOCTYPE html>
-<html>
 
-
-  <!-- {% block styles %} {{ block.super }} {% endblock styles %} -->
-  <!-- {% block menu %} {% include "menu.html" %} {% endblock menu %} -->
-  <head>
-  </head>
-  {% block content %}
-  
-  <div class="table-campeonato">
+{% block content %}
+<div class="table-campeonato">
     <div class="header">Tabela do campeonato</div>
-    
+
     <table cellspacing="0">
-     <tr>
-       <th></th>
-       <th></th>
-       <th></th>
-       <th width="230">Texto</th>
-      </tr>
-      {% for team in object_list %}
-      <tr>
-        <td><img src="{{ team.image.url }}" alt="" />foto</td>
-        <td>{{team.name}}</td>
-        <td>0</td>
-        <td>Lorem ipsum dolor sit amet, consectetur adipisicing elit. </td>
-      </tr>
-      {% endfor %}
-    </table>
-  </div>
-  
-  
-  
-  
-  
-  
-  <div class="container">
-    {% block before_container %} {% endblock before_container %}
-    {% block container %} {% endblock container %}
-    {% block after_container %} {% endblock after_container %}
-  </div>
-  {% endblock content %}
-  {% block footer %} <hr> Nordestão {% endblock footer %}
-  </html>
+        <tr>
+            <th></th>
+            <th></th>
+            <th></th>
+            <th width="230">Texto</th>
+        </tr>
+        {% for team in object_list %}
+        <tr>
+            <td><img src="{{ team.image_url|default_if_none:'#' }}" alt="" /></td>
+            <td>{{ team.name }}</td>
+            <td>0</td>
+            <td>Lorem ipsum dolor sit amet, consectetur adipisicing elit. </td>
+        </tr>
+        {% endfor %}
+        </table>
+    </div>
+{% endblock content %}
+
+{% block footer %}
+<hr>
+Nordestão
+{% endblock footer %}

@@ -25,7 +25,8 @@ class TestPlayerViews(object):
         request = rf.get(reverse('campeonatos:player_detail', kwargs=payload))
         response = player_detail_view(request, **payload)
         assert response.status_code == 200
-        assert 'player/player_detail.html' in [t for t in response.template_name]
+        assert 'player/player_detail.html' in [t for t in
+                                               response.template_name]
         assert 'Generic Player' in response.rendered_content
         assert 'Generic Team' in response.rendered_content
 

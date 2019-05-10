@@ -9,10 +9,6 @@ class Championship(models.Model):
     name = models.CharField(max_length=20)
 
 
-def get_image_path(instance, filename):
-    return os.path.join('img', str(instance.state), filename)
-
-
 class Team(models.Model):
     name = models.CharField(max_length=100)
     slug = models.SlugField(max_length=100, unique=True)
@@ -22,6 +18,11 @@ class Team(models.Model):
         through_fields=('champion', 'championship'))
     state = models.CharField(max_length=20, choices=[(s.value[0], s.value[1])
                                                      for s in StateChoices])
+
+    @property
+    def image_url(self):
+        if self.icon and hasattr(self.icon, 'url'):
+            return self.icon.url
 
     def __str__(self):
         return self.name
