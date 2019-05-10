@@ -1,0 +1,8 @@
+<h1>Times</h1>
+<ul>
+{% for team in object_list %}
+    <li>{{ team.icon }} - {{ team.name }}</li>
+{% empty %}
+    <li>No teams yet.</li>
+{% endfor %}
+</ul>
