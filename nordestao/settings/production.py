@@ -1,4 +1,5 @@
 import os
+import mimetypes
 import sys
 from decouple import config
 from dj_database_url import parse as db_url
@@ -124,3 +125,4 @@ MEDIA_ROOT = 'media'
 
 if False:
     sentry_sdk.init("your dsn", integrations=[DjangoIntegration()])
+mimetypes.add_type("text/css", ".scss", True)

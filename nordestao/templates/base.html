@@ -1,3 +1,4 @@
+{% load static %}
 <!DOCTYPE html>
 <html lang="en" class="no-js">
     <head>
@@ -10,7 +11,9 @@
         <meta name="robots" content="noindex, nofollow">
         <meta name="viewport" content="width=device-width, initial-scale=1.0">
         {% block extra_meta %} {% endblock extra_meta %}
-        {% block styles %} {% endblock styles %}
+        {% block styles %} 
+        <link rel="stylesheet" href="{% static 'style.scss' %}">
+        {% endblock styles %}
         {% block favicon %} {% endblock favicon %}
         {% block scripts_header %}{% endblock scripts_header %}
     </head>
