@@ -10,3 +10,7 @@ python manage.py makemigrations --settings nordestao.settings.production
 python manage.py migrate --settings nordestao.settings.production
 python manage.py runserver --settings nordestao.settings.production
 python manage.py createsuperuser --settings nordestao.settings.production
+
+
+nodejs
+npm install -g yarn==1.15.2
